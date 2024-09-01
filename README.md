@@ -5,18 +5,18 @@ This README provides an overview of the project, including team details, relevan
 
 ## Team Details
 
-Team Name: TEAM_NAME_HERE
+Team Name: S.T.A.Rs
 
 Team Leader: [Ay-2027](https://github.com/Ay-2027)
 
 Team Members:
 
-- MEMBER_1 - ROLL_NUMBER - [aakash010105](https://github.com/aakash010105)
+- MEMBER_1 -  - [aakash010105](https://github.com/aakash010105)
 - MEMBER_2 - ROLL_NUMBER - [AaryaRatnam](https://github.com/AaryaRatnam)
-- MEMBER_3 - ROLL_NUMBER - [jagrat04](https://github.com/jagrat04)
+- MEMBER_3 - 2023UME4195 - [jagrat04](https://github.com/jagrat04)
 - MEMBER_4 - ROLL_NUMBER - [Ay-2027](https://github.com/Ay-2027)
-- MEMBER_5 - ROLL_NUMBER - [soumya4279](https://github.com/soumya4279)
-- MEMBER_6 - ROLL_NUMBER - [Susmitahaldar235](https://github.com/Susmitahaldar235)
+- MEMBER_5 - 2023UCA1908 - [soumya4279](https://github.com/soumya4279)
+- MEMBER_6 - 2023UCA1995 - [Susmitahaldar235](https://github.com/Susmitahaldar235)
 
 ## Project Links
 - Internal Presentation: [Internal Presentation](https://drive.google.com/file/d/1yJJSFnlWGrvUCIu_8PD128eOGNgggRD1/view?usp=sharing)
