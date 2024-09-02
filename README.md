@@ -26,12 +26,14 @@ Team Members:
 - Additional Resources: [Other Relevant Links](https://cloud.appwrite.io/console/project-66d1ee580027d95a6d8e/auth)
   
 ## Echo Time
-Echo time is an IoT clock that can be controlled from your phone from anywhere in the world 
+Echo time is an IoT clock that can be controlled from your phone from anywhere in the world even on different networks 
 ## Working
-Echo Time is a cloud-based software that can be controlled using the expo app
+Echo Time is a cloud-based software that can be controlled using the expo app which is an expo app hosted on a VM in AWS and is connected using another VM for VPN
 ## Cloud
-Cloud (AWS) has 2 EC2 instances one VPN and the other a server that connects to local raspberry pi 
-VPN server - expo is supposed to run locally so vpn makes it so that both app server and mobile app are virtually on same network
-app server - expo app server runs the app and takes logs 
+Cloud (AWS) has 2 EC2 instances one VPN and the other a server that host app server 
+## VPN server 
+- expo is supposed to run locally so vpn makes it so that both app server and mobile app are virtually on same network
+- ## app server
+- expo app server runs the app and takes logs which then send those logs to a S3 bucket in AWS itself 
 ## Raspberry PI
 Raspberry Pi is a single-board-computer that connects to AWS using IoT tool and takes logs generated when user sets the alarm from the expo app server
