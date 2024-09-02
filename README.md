@@ -1,5 +1,6 @@
 # SIH_INTERNAL_ROUND_1_S.T.A.Rs
-# PS Chosen for Internal Hackathon (File Name from the drive folder)
+# Develop a Cloud-Integrated IoT Alarm Clock with Dashboard Integration
+
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
@@ -37,6 +38,7 @@ Cloud (AWS) has 2 EC2 instances one VPN and the other a server that host app ser
 - expo app server runs the app and takes logs which then send those logs to a S3 bucket in AWS itself 
 ## Raspberry PI
 Raspberry Pi is a single-board-computer that connects to AWS using IoT tool and takes logs generated when user sets the alarm from the expo app server
+![WhatsApp Image 2024-09-02 at 16 15 22_404abee1](https://github.com/user-attachments/assets/f5b08e1b-ba63-42a7-8795-c4d762ae1779)
 
 
 # Hardware list
