@@ -37,7 +37,9 @@ Cloud (AWS) has 2 EC2 instances one VPN and the other a server that host app ser
 - expo app server runs the app and takes logs which then send those logs to a S3 bucket in AWS itself 
 ## Raspberry PI
 Raspberry Pi is a single-board-computer that connects to AWS using IoT tool and takes logs generated when user sets the alarm from the expo app server
-### Hardware list
+
+
+# Hardware list
 - Raspbarry pi 5
 - 5 inch lcd
 - Buzzer
