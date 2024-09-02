@@ -32,7 +32,7 @@ Echo Time is a cloud-based software that can be controlled using the expo app wh
 ## Cloud
 Cloud (AWS) has 2 EC2 instances one VPN and the other a server that host app server 
 ## VPN server 
-- expo is supposed to run locally so vpn makes it so that both app server and mobile app are virtually on same network
+- A VPN server allows the Expo app to run locally while ensuring that both the app server and the mobile app are virtually on the same network. This setup is crucial for seamless communication and testing during development, as it mimics a shared local network environment even if the devices are physically apart
 - ## app server
 - expo app server runs the app and takes logs which then send those logs to a S3 bucket in AWS itself 
 ## Raspberry PI
