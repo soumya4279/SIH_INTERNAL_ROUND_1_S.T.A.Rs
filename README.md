@@ -17,7 +17,7 @@ Team Members:
 - MEMBER_3 - 2023UME4195 - [jagrat04](https://github.com/jagrat04)
 - MEMBER_4 - 2023UME4207 - [Ay-2027](https://github.com/Ay-2027)
 - MEMBER_5 - 2023UCA1908 - [soumya4279](https://github.com/soumya4279)
-- MEMBER_6 - 2023UCA1995 - [Susmitahaldar235](https://github.com/Susmitahaldar235)
+- MEMBER_6 - 2023UCA1895 - [Susmitahaldar235](https://github.com/Susmitahaldar235)
 
 ## Project Links
 - Internal Presentation: [Internal Presentation](https://drive.google.com/file/d/1yJJSFnlWGrvUCIu_8PD128eOGNgggRD1/view?usp=sharing)
