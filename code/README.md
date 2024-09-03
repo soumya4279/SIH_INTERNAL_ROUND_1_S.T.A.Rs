@@ -2,7 +2,9 @@
 on your android phone  download [openVPN](https://play.google.com/store/search?q=openvpn&c=apps&hl=en) and [expo app](https://play.google.com/store/search?q=expo&c=apps&hl=en)
 
 use [profile](https://github.com/soumya4279/SIH_INTERNAL_ROUND_1_S.T.A.Rs/blob/main/Files/profile-625746477152312984.ovpn) to use private vpn created by us
-
+- id : openvpn
+- passwd : Sih@nsut27
+  
 please use one device at a time multiple device can't use same profile
 
 ### Scan the fallowing QR
