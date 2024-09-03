@@ -3,6 +3,8 @@ on your android phone  download [openVPN](https://play.google.com/store/search?q
 
 use [profile](https://github.com/soumya4279/SIH_INTERNAL_ROUND_1_S.T.A.Rs/blob/main/Files/profile-625746477152312984.ovpn) to use private vpn created by us
 
+please use one device at a time multiple device can't use same profile
+
 ### Scan the fallowing QR
 ![WhatsApp Image 2024-09-03 at 14 09 02_e807347f](https://github.com/user-attachments/assets/5f48a215-b511-4aa2-ac79-df9c131aabbe)
 
