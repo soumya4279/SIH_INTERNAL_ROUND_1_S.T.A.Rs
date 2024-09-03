@@ -27,7 +27,7 @@ Team Members:
 - Additional Resources: [Other Relevant Links](https://cloud.appwrite.io/console/project-66d1ee580027d95a6d8e/auth)
   
 ## Echo Time
-Echo time is an IoT clock that can be controlled from your phone from anywhere in the world even on different networks (DEPLOYED)
+Echo time is an IoT clock that can be controlled from your phone from anywhere in the world even on different networks ([DEPLOYED](https://github.com/soumya4279/SIH_INTERNAL_ROUND_1_S.T.A.Rs/blob/main/code/README.md))
 ## Working
 Echo Time is a cloud-based software that can be controlled using the expo app which is an expo app hosted on a VM in AWS and is connected using another VM for VPN
 ## Cloud
