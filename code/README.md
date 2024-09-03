@@ -1,7 +1,7 @@
 ## Deployed app
 on your android phone  download [openVPN](https://play.google.com/store/search?q=openvpn&c=apps&hl=en) and [expo app](https://play.google.com/store/search?q=expo&c=apps&hl=en)
 
-
+use [profile](https://github.com/soumya4279/SIH_INTERNAL_ROUND_1_S.T.A.Rs/blob/main/Files/profile-625746477152312984.ovpn) to use private vpn created by us
 
 ### Scan the fallowing QR
 ![Screenshot (122)](https://github.com/user-attachments/assets/16f71d59-c8d5-47e5-be52-ea9cabf3fdb4)
